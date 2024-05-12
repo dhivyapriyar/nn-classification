@@ -1,4 +1,4 @@
-## Developing a Neural Network Classification Model
+## EX 02 Developing a Neural Network Classification Model
 
 ## AIM
 
